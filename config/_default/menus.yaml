@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external--1544272649-1648845288431
+  name: 2.00B MOST RECENT CLASS
+  url: http://web.mit.edu/2.00b/www/course_info/courseinfo.html
+  weight: 10
+- identifier: external-1658736063-1648845315045
+  name: 2.00B PREVIOUS CLASS PRESENTATIONS
+  url: http://web.mit.edu/2.00b/toy_museum/index.html
+  weight: 20
